@@ -179,6 +179,7 @@
                 style="font-size: 35px"
               ></h1>
 
+              <a href="" id="pdf" class="storyline"> DOWNLOAD PDF</a>
               <a href="" id="desc" class="storyline"></a>
               <div id="lessons"></div>
             </div>
@@ -242,6 +243,7 @@
           document.title = lessons[lesson-1].value.title;
           document.getElementById("desc").innerHTML = lessons[lesson-1].value.permalink;
           document.getElementById("desc").href = lessons[lesson-1].value.permalink;
+          document.getElementById("pdf").href = lessons[lesson-1].value.live_class.slides_pdf.with_annotation;
         });
       function getIframeWindow(iframe_object) {
         var doc;
