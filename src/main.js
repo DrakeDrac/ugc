@@ -1,11 +1,6 @@
 //urls
 
-token = "O2JBWGVK8PBB9AOOR5CC";
 //https://cloudflare-cors-anywhere.mojmsti.workers.dev/?
-let data_url = "https://player.uacdn.net/lesson-raw/" + token + "/data.json";
-
-let video_url =
-  "https://uamediav2.uacdn.net/lesson-raw/" + token + "/output.webm";
 
 let canvas = document.getElementById("canvas");
 let imgCanvas = document.getElementById("imgCanvas");
@@ -53,7 +48,6 @@ const initCanvas = () => {
 };
 window.onkeydown = vidCtrl;
 
-video.src = video_url;
 hls.on(Hls.Events.MEDIA_ATTACHED, function () {
   video.muted = false;
 });
@@ -93,39 +87,47 @@ video.onseeking = function () {
   }, 50);
 };
 
-// Save data.json
-fetch(data_url).then(async (r) => {
-  data = await r.json();
+function init(token) {
+  let data_url = "https://player.uacdn.net/lesson-raw/" + token + "/data.json";
 
-  // Convert data.json into a single array
-  for (x of data) {
-    for (y of x) {
-      parsed_data.push(y);
+  let video_url =
+    "https://uamediav2.uacdn.net/lesson-raw/" + token + "/output.webm";
+  video.src = video_url;
+
+  // Save data.json
+  fetch(data_url).then(async (r) => {
+    data = await r.json();
+
+    // Convert data.json into a single array
+    for (x of data) {
+      for (y of x) {
+        parsed_data.push(y);
+      }
     }
-  }
-  initCanvas();
+    initCanvas();
 
-  loadBg(0);
-});
+    loadBg(0);
+  });
 
-// Re-render every 15 seconds (Debugging, can be used in production after saving shapes)
-setInterval(() => {
-  if (video.paused) return;
-  onSeek();
-}, 15000);
+  // Re-render every 15 seconds (Debugging, can be used in production after saving shapes)
+  setInterval(() => {
+    if (video.paused) return;
+    onSeek();
+  }, 15000);
 
-//update video progress
-setInterval(() => {
-  if (video.paused) return;
-  document.getElementById("progressBar").value =
-    (video.currentTime / video.duration) * 100;
-  document.getElementById("currentTime").innerHTML = secondsToHms(
-    video.currentTime
-  );
-}, 1000);
+  //update video progress
+  setInterval(() => {
+    if (video.paused) return;
+    document.getElementById("progressBar").value =
+      (video.currentTime / video.duration) * 100;
+    document.getElementById("currentTime").innerHTML = secondsToHms(
+      video.currentTime
+    );
+  }, 1000);
 
-// Check for strokes
-setInterval(() => {
-  if (video.paused) return;
-  drawLoop();
-}, 10);
+  // Check for strokes
+  setInterval(() => {
+    if (video.paused) return;
+    drawLoop();
+  }, 10);
+}
