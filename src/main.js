@@ -91,7 +91,7 @@ function init(token) {
   let data_url = "https://player.uacdn.net/lesson-raw/" + token + "/data.json";
 
   let video_url =
-    "https://uamediav2.uacdn.net/lesson-raw/" + token + "/output.webm";
+    "https://uamedia.uacdn.net/lesson-raw/" + token + "/output.webm";
   video.src = video_url;
 
   // Save data.json
