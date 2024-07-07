@@ -1,0 +1,2020 @@
+{
+  "count": 0,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "first_name": "Raghav",
+      "last_name": "Wadhwa",
+      "username": "CommerceMantra",
+      "uid": "5U1U9JONT2",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/9af2b4c1818c46ee8a42d2649b7ac35f.png?q=100&w=512",
+      "permalink": "https://unacademy.com/@CommerceMantra",
+      "relative_link": "/@CommerceMantra",
+      "topics_display": "Teaches CA Foundation Course and 53 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/9af2b4c1818c46ee8a42d2649b7ac35f.png?q=100&w=512",
+      "avg_rating": "4.968",
+      "bio": "🗽Top Unacademy Plus Educator of Commerce (NTA-NET)|Use Code 'RAGHAVJRF' to Unlock my Free Content|Explore the World of Commerce like a PRO!",
+      "is_verified_educator": false,
+      "followers_count": "10996",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "start_time": 1570041000000,
+            "currently_related": 1,
+            "title": "DAV College, Abohar (Punjab)"
+          }
+        ],
+        "2": [
+          {
+            "start_time": 1246386600000,
+            "currently_related": 0,
+            "end_time": 1338402600000,
+            "title": "DAV College, Abohar (Punjab)"
+          },
+          {
+            "start_time": 1435689000000,
+            "currently_related": 0,
+            "end_time": 1496169000000,
+            "title": "Panjab University, Chandigarh"
+          }
+        ],
+        "4": [
+          {
+            "title": "Awarded a certificate for 'Cost Accounting' course from IIT, Bombay  (NPTEL)"
+          }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 9903 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 2055180,
+      "total_watch_time": 932860351,
+      "level_info": { "follower_count": 9903, "level_id": 3 },
+      "topic": "CA Foundation Course",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_thumbnail/911F2232-1D42-487A-B1AD-059656513E69_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Anukampa",
+      "last_name": "Devi",
+      "username": "anukampa.devi-6592",
+      "uid": "SF86WIJ36K",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/3ec007b14afa42208d974be217fe0491.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@anukampa.devi-6592",
+      "relative_link": "/@anukampa.devi-6592",
+      "topics_display": "Teaches Curriculum Studies and 23 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/3ec007b14afa42208d974be217fe0491.jpg?q=100&w=512",
+      "avg_rating": null,
+      "bio": "",
+      "is_verified_educator": false,
+      "followers_count": "4717",
+      "is_following": false,
+      "credentials": {
+        "1": [],
+        "4": [
+          {
+            "title": "NTA-UGC NET JRF 4th rank with 100 percentile in paper-1. Also NE-SET Qualified in Education"
+          }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "display_string": "Followers", "type": 1, "value": 4683 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 5059500,
+      "total_watch_time": 748916188,
+      "level_info": { "follower_count": 4683, "level_id": 3 },
+      "topic": "Curriculum Studies",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_thumbnail/5A747E1D-0400-43DF-805B-EE5015056460_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Jyoti",
+      "last_name": "Bala",
+      "username": "jyotidahiya9910-7764",
+      "uid": "6O546OW939",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/ea21c596d915491e9ad64c08cfa69f90.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@jyotidahiya9910-7764",
+      "relative_link": "/@jyotidahiya9910-7764",
+      "topics_display": "Teaches Environmental Sci. Fundamentals and 15 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/ea21c596d915491e9ad64c08cfa69f90.jpg?q=100&w=512",
+      "avg_rating": "4.8182",
+      "bio": "I completed my masters in Environmental science. I qualified NTA UGC NET JRF. I also qualified ICAR NET and now pursuing PhD.",
+      "is_verified_educator": false,
+      "followers_count": "6823",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "start_time": 1546281000000,
+            "currently_related": 1,
+            "id": "40fe192b-4b0d-4042-9caa-74556358769e",
+            "title": "Unacademy"
+          }
+        ],
+        "2": [
+          {
+            "start_time": 1435689000000,
+            "currently_related": 0,
+            "end_time": 1496255400000,
+            "title": "Maharishi dayanand University"
+          }
+        ],
+        "4": [
+          {
+            "id": "d85fe05f-afab-4106-9a8d-16599663c722",
+            "title": "NTA UGC NET JRF with 17th Rank. ASRB NET Qualified"
+          }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "display_string": "Followers", "type": 1, "value": 3854 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 3448020,
+      "total_watch_time": 1152684304,
+      "level_info": { "follower_count": 3854, "level_id": 3 },
+      "topic": "Environmental Sci. Fundamentals",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_thumbnail/91229354-84D0-4EE5-9319-9F0F241F5048_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Kritika",
+      "last_name": "Pareek",
+      "username": "kritika.pareek",
+      "uid": "3OS5EEXFNU",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/e4017ac526d84c3e90d026badcdad867.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@kritika.pareek",
+      "relative_link": "/@kritika.pareek",
+      "topics_display": "Teaches Oceanography and 44 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/e4017ac526d84c3e90d026badcdad867.jpg?q=100&w=512",
+      "avg_rating": null,
+      "bio": "",
+      "is_verified_educator": false,
+      "followers_count": "8295",
+      "is_following": false,
+      "credentials": {
+        "2": [
+          {
+            "end_time": 1546281000000,
+            "start_time": 1483209000000,
+            "currently_related": 0,
+            "id": "fef49f51-83c2-46fe-bbc7-7b05156cfc67",
+            "title": "University of Rajasthan"
+          }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "display_string": "Followers", "type": 1, "value": 7843 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 784320,
+      "total_watch_time": 426251090,
+      "level_info": { "follower_count": 7843, "level_id": 3 },
+      "topic": "Oceanography",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_thumbnail/BD8FCA59-89C9-4337-9F23-2FE32CAAB572_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Soni",
+      "last_name": "Kumari",
+      "username": "Samriddhi9524-9355",
+      "uid": "JYVAGH1MC5",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/bf3a48c74acc4e55b16383e9a8d8851f.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@Samriddhi9524-9355",
+      "relative_link": "/@Samriddhi9524-9355",
+      "topics_display": "Teaches History and 13 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/bf3a48c74acc4e55b16383e9a8d8851f.jpg?q=100&w=512",
+      "avg_rating": "5.0",
+      "bio": "Teaching is  my  passion ,Masters ( lGNOU)  Net  qualified , 5+ years teaching experience \n  ⭐ A  mentor &  motivator ⭐ \n use code-Soni1410",
+      "is_verified_educator": false,
+      "followers_count": "4477",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "start_time": 1556821800000,
+            "currently_related": 1,
+            "title": "An  educator on unacademy"
+          }
+        ],
+        "2": [
+          {
+            "start_time": 1434652200000,
+            "currently_related": 0,
+            "end_time": 1497810600000,
+            "title": "IGNOU"
+          }
+        ],
+        "4": [{ "title": "Unacademy plus educator" }]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 4476 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 10651740,
+      "total_watch_time": 817406603,
+      "level_info": { "follower_count": 4476, "level_id": 3 },
+      "topic": "History",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_thumbnail/F21CFF99-E3B1-4C90-A526-4CAEAE3D2F2C_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Nisha",
+      "last_name": "Mittal",
+      "username": "nishamittal86-2742",
+      "uid": "NTESWB21R5",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/654303e27d974feeb72ab28ed5a53bf8.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@nishamittal86-2742",
+      "relative_link": "/@nishamittal86-2742",
+      "topics_display": "Teaches Artificial Intelligence (AI) and 20 more",
+      "intro_photo": "https://edge.uacdn.net/static/intro_photo/nishamittal86-2742.png",
+      "avg_rating": "4.8554",
+      "bio": "🌟 MCA Gold Medalist 🌟 Star Educator 🌟Gate Qualified 🔴UGC NET qualified🌟BOOK published on LINUX ADMINISTRATION by kalyani publish",
+      "is_verified_educator": false,
+      "followers_count": "20496",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "start_time": 1272652200000,
+            "currently_related": 0,
+            "end_time": 1377887400000,
+            "title": "National College"
+          },
+          {
+            "start_time": 1430418600000,
+            "currently_related": 0,
+            "end_time": 1459362600000,
+            "title": "Institute for UGC NET preparation"
+          },
+          {
+            "start_time": 1533061800000,
+            "currently_related": 1,
+            "title": "Unacademy"
+          }
+        ],
+        "2": [
+          {
+            "start_time": 607372200000,
+            "currently_related": 0,
+            "end_time": 992457000000,
+            "title": "SVM"
+          },
+          {
+            "start_time": 986063400000,
+            "currently_related": 0,
+            "end_time": 1301509800000,
+            "title": "National College"
+          }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "display_string": "Followers", "type": 1, "value": 19958 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 4287960,
+      "total_watch_time": 2117644451,
+      "level_info": { "follower_count": 19958, "level_id": 3 },
+      "topic": "Artificial Intelligence (AI)",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_thumbnail/2D2A12A0-2A67-43AB-AC56-7795141F487F_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Chandra Bhal",
+      "last_name": "Tiwari Om",
+      "username": "OmTiwari",
+      "uid": "6EBCCQHKYP",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/f65222e5803546a7973157851caaafd6.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@OmTiwari",
+      "relative_link": "/@OmTiwari",
+      "topics_display": "Teaches Concepts, Ideas & Terms and 9 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/f65222e5803546a7973157851caaafd6.jpg?q=100&w=512",
+      "avg_rating": "4.9333",
+      "bio": "Hi! Om here. Research Scholar, Former Research Associate(ICSSR), Former Guest Faculty in DU and obviously NET Qualified. ",
+      "is_verified_educator": false,
+      "followers_count": "3186",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "start_time": 1562956200000,
+            "currently_related": 1,
+            "title": "Unacademy"
+          },
+          {
+            "start_time": 1665780121853,
+            "currently_related": 1,
+            "title": "Research Associate, ICSSR"
+          }
+        ],
+        "2": [
+          {
+            "start_time": 1404153000000,
+            "currently_related": 0,
+            "end_time": 1463682600000,
+            "title": "Ramjas College"
+          }
+        ],
+        "4": [{ "title": "Unacademy Plus educator." }]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 3079 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 3210120,
+      "total_watch_time": 456449309,
+      "level_info": { "follower_count": 3079, "level_id": 4 },
+      "topic": "Concepts, Ideas & Terms",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_image/0EC4813B-3C5B-4BB4-BD6F-6FB1ACA346F0_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Yashika Sanjay",
+      "last_name": "Hargunani",
+      "username": "YashicaHargunani-6703",
+      "uid": "YI6U8KFT2I",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/8fa27f75e68a4357b26bef1fee293ede.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@YashicaHargunani-6703",
+      "relative_link": "/@YashicaHargunani-6703",
+      "topics_display": "Teaches Basic Concepts and Institutions and 10 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/8fa27f75e68a4357b26bef1fee293ede.jpg?q=100&w=512",
+      "avg_rating": null,
+      "bio": "Sociology Educator||  Providing educational resources for NTA UGC NET Sociology\nWorked with Antara Chakrabarty for 3 years.",
+      "is_verified_educator": false,
+      "followers_count": "1287",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "end_time": 1672511400000,
+            "start_time": 1640975400000,
+            "currently_related": 0,
+            "id": "40ddd317_2225_429c_8ef7_d2a84a37d833",
+            "title": "Mahima Charitable Society"
+          }
+        ],
+        "2": [
+          {
+            "end_time": 1546281000000,
+            "start_time": 1483209000000,
+            "currently_related": 0,
+            "id": "22539294_b495_4ccb_a582_64844ace713e",
+            "title": "S.N.D.T  UNIVERSITY"
+          }
+        ],
+        "4": [
+          {
+            "id": "a3934aa1_476a_47ba_8a93_b751b7481cde",
+            "title": "Founder of Everything About Sociology\nCertified Graphologist and Face Reader\nWorked with Antara Chakrabarty\nPhD Research Consultant\nExam Prep for Competitive  Exams Mastery Programmes"
+          }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "display_string": "Followers", "type": 1, "value": 1286 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 0,
+      "total_watch_time": 38107557,
+      "level_info": { "follower_count": 1286, "level_id": 4 },
+      "topic": "Basic Concepts and Institutions",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_image/591CDE55-7FEE-4769-8AED-6D91A7D915C6_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Km",
+      "last_name": "Parul Singh",
+      "username": "spari83227-3754",
+      "uid": "X1DY39S95O",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/a00db55d4f614334ba691d8c6f2ea5f6.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@spari83227-3754",
+      "relative_link": "/@spari83227-3754",
+      "topics_display": "Teaches Hindi and 15 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/a00db55d4f614334ba691d8c6f2ea5f6.jpg?q=100&w=512",
+      "avg_rating": null,
+      "bio": "हिंदी की शिक्षिका होने से मैंने हजारो विद्यार्थियों सफलतापूर्वक उनके मुकाम तक पहुचाया है मेरा आगे भी यही प्रयास रहेगा कि इस नए PLATEFORM पर ",
+      "is_verified_educator": false,
+      "followers_count": "635",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "start_time": 1704131336369,
+            "currently_related": 1,
+            "title": "Unacademy"
+          }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "display_string": "Followers", "type": 1, "value": 495 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 0,
+      "total_watch_time": 40536837,
+      "level_info": { "follower_count": 495, "level_id": 4 },
+      "topic": "Hindi",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_image/D1CA04F6-E642-41E0-836C-FB69BF87C089_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Sanchita",
+      "last_name": "Khantwal",
+      "username": "sanchitakhantwal7189-3680",
+      "uid": "EJU0RWZV8I",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/820eccca3c02444c8dae7cf635fb5d2a.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@sanchitakhantwal7189-3680",
+      "relative_link": "/@sanchitakhantwal7189-3680",
+      "topics_display": "Teaches Labour Welfare/IR/HRM and 20 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/820eccca3c02444c8dae7cf635fb5d2a.jpg?q=100&w=512",
+      "avg_rating": null,
+      "bio": "",
+      "is_verified_educator": false,
+      "followers_count": "1132",
+      "is_following": false,
+      "credentials": {
+        "2": [
+          {
+            "start_time": 1436898600000,
+            "currently_related": 0,
+            "end_time": 1494786600000,
+            "title": "Asia Pacific Institute of Management"
+          }
+        ],
+        "4": [
+          {
+            "title": "UGC NET Qualified. Pursuing Phd in Management.\nCorporate experience in firms like KPMG."
+          }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "display_string": "Followers", "type": 1, "value": 1122 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 0,
+      "total_watch_time": 134321766,
+      "level_info": { "follower_count": 1122, "level_id": 4 },
+      "topic": "Labour Welfare/IR/HRM",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_thumbnail/86295A71-591E-4EFB-94D7-30FC1CD510F6_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Prachi",
+      "last_name": "Sharma",
+      "username": "unacademy-user-IMNUISF9X5AK",
+      "uid": "BQYDOSFAPZ",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/fc59e3a5267b467998311281fb751b37.png?q=100&w=512",
+      "permalink": "https://unacademy.com/@unacademy-user-IMNUISF9X5AK",
+      "relative_link": "/@unacademy-user-IMNUISF9X5AK",
+      "topics_display": "Teaches Political Science and 11 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/fc59e3a5267b467998311281fb751b37.png?q=100&w=512",
+      "avg_rating": null,
+      "bio": "With teaching experience of 7+ years, I have mentored around 50,000+ students and helped them to successfully crack NET-JRF, SET, Phd etc. ",
+      "is_verified_educator": false,
+      "followers_count": "1099",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "title": "Faculty at BYJU’s exam prep formerly known as Gradeup",
+            "start_time": 1577817000000,
+            "currently_related": 0,
+            "id": "f5445e84_23c2_45cf_be71_3358602896bc",
+            "end_time": 1704047400000
+          },
+          {
+            "title": "Assistant Professor, Delhi University ",
+            "start_time": 1483209000000,
+            "currently_related": 0,
+            "end_time": 1577817000000,
+            "id": "2d6de71d_7381_4ab6_a66f_bece127b8092"
+          },
+          {
+            "title": "Freelance Subject Matter Expert",
+            "start_time": 1451586600000,
+            "currently_related": 0,
+            "id": "cacb039c_a7f4_4e41_b4a9_2d3cb12a6037",
+            "end_time": 1483209000000
+          }
+        ],
+        "2": [
+          {
+            "title": "B.Ed from Kurukshetra University",
+            "start_time": 1546281000000,
+            "currently_related": 0,
+            "id": "4d72e7d0_6c0e_47fc_913b_ae634ef17273",
+            "end_time": 1609439400000
+          },
+          {
+            "title": "MA Political Science - Lady Sri Ram College, Delhi University",
+            "start_time": 1388514600000,
+            "currently_related": 0,
+            "end_time": 1451586600000,
+            "id": "0c991ec8_7744_4e60_805d_f93fafca67ee"
+          },
+          {
+            "title": "BA(H) Political Science - Jesus and Mary College, Delhi University",
+            "start_time": 1293820200000,
+            "currently_related": 0,
+            "id": "337907ed_7844_43e5_bf1b_e1b412d14d4d",
+            "end_time": 1388514600000
+          }
+        ],
+        "4": [
+          {
+            "id": "f52e6cfd_c32c_4b5a_87cd_6bf536be8768",
+            "title": "1. Qualified  UGC NET/JRF exam 4 times with a percentile of 99.7. \n2. Attended Faculty Development Programmes organised by Delhi University and Ministry of Education.\n3. Amongst Top 10 scorers at DU"
+          }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 1067 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 0,
+      "total_watch_time": 75307924,
+      "level_info": { "follower_count": 1067, "level_id": 4 },
+      "topic": "Political Science",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_image/14837A0E-87C3-40A8-B437-80238FB74B0A_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Ashima",
+      "last_name": "Negi",
+      "username": "negi1983-8777",
+      "uid": "87FQCOD7VS",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/08de0117a6b24097a8b83c69b08d3f51.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@negi1983-8777",
+      "relative_link": "/@negi1983-8777",
+      "topics_display": "Teaches Communication and 106 more",
+      "intro_photo": "https://edge.uacdn.net/static/intro_photo/negi1983-8777.png",
+      "avg_rating": "4.6594",
+      "bio": "No.1 Iconic Educator-Mgmt, Content Consultant,Provider,Reviewer.\n\rCA(I),MBA,PhD-Accounts,PGDM,BBA,NCFM,ISO 9000,TQM,CCIBL.\nUGC NET,19 yr exp",
+      "is_verified_educator": false,
+      "followers_count": "22756",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "start_time": 1514745000000,
+            "currently_related": 1,
+            "id": "a42f7f0f_b164_4d89_9e15_4167b5dee738",
+            "title": "Unacademy"
+          }
+        ],
+        "2": [
+          {
+            "title": "GGSIP University, Delhi",
+            "start_time": 1199125800000,
+            "currently_related": 0,
+            "id": "a00c8d33_15cb_4faf_b67e_a6505ae0037a",
+            "end_time": 1262284200000
+          }
+        ],
+        "4": [
+          {
+            "title": "Silver Play Button - 10 Million.\nPG Program Head @ Sri SiiM\nGuest Speaker @ University/Colleges"
+          },
+          {
+            "title": "Legend Educator - RBI, NET.\nTop Educator -Management, NTA UGC NET\nTop 5 Educator UGC NET @ Unacademy"
+          },
+          {
+            "title": "Faculty- Management (NET, RBI,SETs)\nFaculty- General Aptitude(NTA NET, CSIR NET).\nFaculty- UPPSC, CA"
+          },
+          {
+            "title": "Content Consultant - NTA NET Paper 1, 2(Management)\nContent Provider -1,Management.\nContent Reviewer"
+          },
+          {
+            "title": "Interviewer - Iconic Staff Selection Committee, Management, Paper 1 (NTA UGC NET)."
+          }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 21986 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 2400180,
+      "total_watch_time": 1218623201,
+      "level_info": { "follower_count": 21986, "level_id": 4 },
+      "topic": "Communication",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_thumbnail/C1CBA83C-9BFD-4186-B0CB-AF0501D9EE94_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Indresh Pratap",
+      "last_name": "Singh",
+      "username": "indresh001",
+      "uid": "GC911GZLIZ",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/cfc78f22af864ea29eecbeb75a01cbc5.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@indresh001",
+      "relative_link": "/@indresh001",
+      "topics_display": "Teaches Commerce and 40 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/cfc78f22af864ea29eecbeb75a01cbc5.jpg?q=100&w=512",
+      "avg_rating": "4.9531",
+      "bio": "Pursing PhD, ICSSR Doctoral Fellowship Awardee, Qualified NTA UGC NET, Content Writer, INDRESH001, 5 years teaching experience! Learn frm Be",
+      "is_verified_educator": false,
+      "followers_count": "3962",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "start_time": 1551119400000,
+            "currently_related": 1,
+            "title": "Unacademy"
+          },
+          {
+            "start_time": 1671388200000,
+            "currently_related": 1,
+            "title": "University of Lucknow"
+          }
+        ],
+        "2": [
+          {
+            "start_time": 1436466600000,
+            "currently_related": 0,
+            "end_time": 1493490600000,
+            "title": "Lucknow University"
+          }
+        ],
+        "4": [
+          { "title": "Verified Educator" },
+          { "title": "ICSSR DOCTORAL FELLOWSHIP AWARDEE" }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 3435 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 719520,
+      "total_watch_time": 268475311,
+      "level_info": { "follower_count": 3435, "level_id": 4 },
+      "topic": "Commerce",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_thumbnail/8BFB5025-2159-4A6E-BCC3-27938FC39A76_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Jyoti",
+      "last_name": "Kundu",
+      "username": "jyotikundu7102",
+      "uid": "J1XTPX31DJ",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/b3788b17e5b748f0be9caa96fe0f6999.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@jyotikundu7102",
+      "relative_link": "/@jyotikundu7102",
+      "topics_display": "Teaches Education and 13 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/b3788b17e5b748f0be9caa96fe0f6999.jpg?q=100&w=512",
+      "avg_rating": null,
+      "bio": "1. Taught and Mentored more than 25000+ students\n2. More than 500+ NET/JRF/SET Selection\n3. 4+ Years of Experience ",
+      "is_verified_educator": false,
+      "followers_count": "628",
+      "is_following": false,
+      "credentials": {},
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": { "value_props": [], "rank": -1 },
+      "live_minutes": 0,
+      "total_watch_time": 24820784,
+      "level_info": { "follower_count": 0, "level_id": 4 },
+      "topic": "Education",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_image/465D0ECE-702F-40CB-ABBC-5B8CC3CE92E5_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Tanya",
+      "last_name": "Bhatia",
+      "username": "Tanyabhatia1213",
+      "uid": "DK6TJP15WB",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/7b2fb93e2a404dc19183bb1ccf9e4b77.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@Tanyabhatia1213",
+      "relative_link": "/@Tanyabhatia1213",
+      "topics_display": "Teaches Mathematical Economics and 61 more",
+      "intro_photo": "https://edge.uacdn.net/static/intro_photo/Tanyabhatia1213.png",
+      "avg_rating": "4.6503",
+      "bio": "No.1 Educator in Economics JRF holder, Assistant Professor in Satyawati DU Expert in NET for Economics.Teaching is work of heart❤❤❤",
+      "is_verified_educator": false,
+      "followers_count": "23629",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "start_time": 1564597800000,
+            "currently_related": 1,
+            "title": "Satyawati College( Assistant Prof. Economics) Delhi University"
+          }
+        ],
+        "2": [
+          {
+            "start_time": 1372617000000,
+            "currently_related": 0,
+            "end_time": 1469817000000,
+            "title": "Shyam Lal College Delhi University"
+          }
+        ],
+        "4": [
+          {
+            "title": "JRF Holder,Verified Educator,Topper in CBSE 12th,Coordinator in Delhi University Innovation Project"
+          }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 22486 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 2036460,
+      "total_watch_time": 1369088902,
+      "level_info": { "follower_count": 22486, "level_id": 4 },
+      "topic": "Mathematical Economics",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_thumbnail/2FAD6F0C-77FE-49A3-8172-4698FE81D5C1_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Richa",
+      "last_name": "Singh",
+      "username": "richachhaunker-7659",
+      "uid": "Q5C1LAYH5O",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/3f37e865b97341fa8dd5433ab7ea8379.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@richachhaunker-7659",
+      "relative_link": "/@richachhaunker-7659",
+      "topics_display": "Teaches General Paper on Teaching and 29 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/3f37e865b97341fa8dd5433ab7ea8379.jpg?q=100&w=512",
+      "avg_rating": null,
+      "bio": "\"An Academician & Philanthropist for over an Decade. Certified Soft Skills Trainer. Cleared NTA-UGC NET in Management.\"",
+      "is_verified_educator": false,
+      "followers_count": "3414",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "start_time": 1577903400000,
+            "currently_related": 1,
+            "title": "Global Teachers Academy (Private Coaching Institute for UGC NET, CSIR NET, UPSC, SSB, SGL etc)"
+          },
+          {
+            "start_time": 1462559400000,
+            "currently_related": 0,
+            "end_time": 1528482600000,
+            "title": "Guest Lecturer, Wici Skills of Institute of Personality Development and Communication, IPCNS Ranchi"
+          },
+          {
+            "start_time": 1463337000000,
+            "currently_related": 0,
+            "end_time": 1527618600000,
+            "title": "Chief Coordinator, Albert Ekka Sainik Institute, Dipatoli Cantt Ranchi"
+          },
+          {
+            "start_time": 1462559400000,
+            "currently_related": 0,
+            "end_time": 1526754600000,
+            "title": "Coordinator, Cockerel Family Welfare Organisation"
+          },
+          {
+            "start_time": 1286389800000,
+            "currently_related": 0,
+            "end_time": 1320863400000,
+            "title": "Coordinator, Blazing Sword Family Welfare Organisation"
+          },
+          {
+            "start_time": 1146421800000,
+            "currently_related": 0,
+            "end_time": 1189103400000,
+            "title": "Lecturer Managememt Department, Jaipur Engineering college, Jaipur"
+          }
+        ],
+        "2": [
+          {
+            "start_time": 1054405800000,
+            "currently_related": 0,
+            "end_time": 1118687400000,
+            "title": "MBA Marketing & HRM, BJS Rampuria College, Maharaja Ganga Singh University"
+          },
+          {
+            "start_time": 960316200000,
+            "currently_related": 0,
+            "end_time": 1055788200000,
+            "title": "BCA, SSJ Girls College, Kurukshetra University"
+          },
+          {
+            "start_time": 891887400000,
+            "currently_related": 0,
+            "end_time": 921436200000,
+            "title": "XII, KV Shriganganagar Cantt, CBSE Board"
+          },
+          {
+            "start_time": 828815400000,
+            "currently_related": 0,
+            "end_time": 857673000000,
+            "title": "X, KV Shriganganagar Cantt, CBSE Board"
+          },
+          {
+            "start_time": 1430418600000,
+            "currently_related": 0,
+            "end_time": 1459449000000,
+            "title": "Certificate Program in Soft Skills, Madras University"
+          },
+          {
+            "start_time": 1294857000000,
+            "currently_related": 0,
+            "end_time": 1328466600000,
+            "title": "Nursery Teachers Training, IOWET, New Delhi"
+          },
+          {
+            "start_time": 1559845800000,
+            "currently_related": 0,
+            "end_time": 1575657000000,
+            "title": "UGC NET Management Qualified"
+          }
+        ],
+        "4": [
+          {
+            "title": "Launch of YouTube Channel’Target Net with Richa’ for UGC Net Paper1,Management Coaching on26Apr 2020"
+          }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 3208 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 0,
+      "total_watch_time": 91002057,
+      "level_info": { "follower_count": 3208, "level_id": 5 },
+      "topic": "General Paper on Teaching",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_thumbnail/C1B66D48-969F-41C9-8D0D-0CBFFDAD4AE2_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Shafali",
+      "last_name": "Bajaj",
+      "username": "shafali10",
+      "uid": "Y8QMTXWQ8J",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/c1fa8cf2b99e43a3a7707385be776f53.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@shafali10",
+      "relative_link": "/@shafali10",
+      "topics_display": "Teaches Teaching Aptitude and 24 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/c1fa8cf2b99e43a3a7707385be776f53.jpg?q=100&w=512",
+      "avg_rating": "4.5",
+      "bio": "NET Qualified | 4+Yrs. Teaching Experience | Youtube Educator | Doubt Clearer | #Follow",
+      "is_verified_educator": false,
+      "followers_count": "1047",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "start_time": 1490380200000,
+            "currently_related": 1,
+            "title": "\"Be Prepare for UGC-NET \" Youtube Channel"
+          }
+        ],
+        "2": [
+          {
+            "start_time": 859833000000,
+            "currently_related": 0,
+            "end_time": 1206988200000,
+            "title": "GRG National Girls School, Sirsa"
+          },
+          {
+            "start_time": 1217529000000,
+            "currently_related": 0,
+            "end_time": 1304101800000,
+            "title": "Govt.Polytechnic College, Sirsa"
+          },
+          {
+            "start_time": 1312137000000,
+            "currently_related": 0,
+            "end_time": 1469989800000,
+            "title": "CMK National PG Girls College, Sirsa"
+          }
+        ],
+        "4": [{ "title": "NTA-NET Qualified" }]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 1002 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 0,
+      "total_watch_time": 4843409,
+      "level_info": { "follower_count": 1002, "level_id": 5 },
+      "topic": "Teaching Aptitude",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_thumbnail/BB7E1C9A-0D29-45D2-B736-A5284F6A5700_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Reeta",
+      "last_name": "Rani",
+      "username": "ReetaRukhaya",
+      "uid": "DLFZPAATS5",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/7b616e9c1da3425db36ac80159444be1.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@ReetaRukhaya",
+      "relative_link": "/@ReetaRukhaya",
+      "topics_display": "Teaches Commerce and 40 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/7b616e9c1da3425db36ac80159444be1.jpg?q=100&w=512",
+      "avg_rating": "4.9057",
+      "bio": "Assistant Professor of Commerce 💫💫\nJunior Research Fellowship in Commerce💥\n 👉YouTube: RR Classes \n👉Telegram : RR Classes \n👉CS FOUNDATION AIR",
+      "is_verified_educator": false,
+      "followers_count": "7670",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "start_time": 1546281000000,
+            "currently_related": 1,
+            "title": "UNACADEMY as educator for NTA NET"
+          }
+        ],
+        "2": [
+          {
+            "start_time": 1498847400000,
+            "currently_related": 0,
+            "end_time": 1559241000000,
+            "title": "M.M. college haryana"
+          }
+        ],
+        "4": [
+          { "title": "Ugc net 2 times  in commerce \nAIR 14 CS FOUNDATION" }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 7605 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 176400,
+      "total_watch_time": 399259698,
+      "level_info": { "follower_count": 7605, "level_id": 5 },
+      "topic": "Commerce",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_thumbnail/587A17EB-8D84-48FC-B731-5EF875A9956D_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Suchit",
+      "last_name": "Shukla",
+      "username": "suchitshukla3819-6970",
+      "uid": "1T1VYWLWQB",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/8cd8a78a3cd546a4b192d1d68031ee8b.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@suchitshukla3819-6970",
+      "relative_link": "/@suchitshukla3819-6970",
+      "topics_display": "Teaches Economics and 64 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/8cd8a78a3cd546a4b192d1d68031ee8b.jpg?q=100&w=512",
+      "avg_rating": null,
+      "bio": "",
+      "is_verified_educator": false,
+      "followers_count": "436",
+      "is_following": false,
+      "credentials": {},
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 357 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 0,
+      "total_watch_time": 13059939,
+      "level_info": { "follower_count": 357, "level_id": 5 },
+      "topic": "Economics",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_thumbnail/B33C0222-A453-4905-8735-DB50242B170D_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Uday",
+      "last_name": "Pratap Singh",
+      "username": "Uday847155",
+      "uid": "IONX50FZQ2",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/e152e99badec4289b0e92fca6ef18f7b.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@Uday847155",
+      "relative_link": "/@Uday847155",
+      "topics_display": "Teaches Practice Questions and 91 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/e152e99badec4289b0e92fca6ef18f7b.jpg?q=100&w=512",
+      "avg_rating": null,
+      "bio": "",
+      "is_verified_educator": false,
+      "followers_count": "2425",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "start_time": 1483209000000,
+            "currently_related": 1,
+            "id": "6b362baa_81ef_4907_8ede_4734f39fa4c5",
+            "title": "DIRECTOR ENGLISH BY UDAY SIR SINCE 2017"
+          }
+        ],
+        "2": [
+          {
+            "start_time": 1261420200000,
+            "currently_related": 1,
+            "title": "Lucknow university"
+          }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 2154 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 150420,
+      "total_watch_time": 6158636,
+      "level_info": { "follower_count": 2154, "level_id": 5 },
+      "topic": "Practice Questions",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_thumbnail/C27ABD20-CCD0-426C-8F52-874AF32847BA_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Dr Barkha",
+      "last_name": "Gupta",
+      "username": "barkha21gupta-417",
+      "uid": "ZQ87LO67Y2",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/93215a428ed542ebb1b1b46950644f61.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@barkha21gupta-417",
+      "relative_link": "/@barkha21gupta-417",
+      "topics_display": "Teaches Function of Management and 51 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/93215a428ed542ebb1b1b46950644f61.jpg?q=100&w=512",
+      "avg_rating": null,
+      "bio": " Hello everyone,\nI am Dr. Barkha Gupta . I worked as an Asst. professor in management department.  I have 6+ years of experience in teaching",
+      "is_verified_educator": false,
+      "followers_count": "1279",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "start_time": 1563129000000,
+            "currently_related": 1,
+            "title": "IME institute of management, Ghaziabad"
+          },
+          {
+            "start_time": 1441045800000,
+            "currently_related": 0,
+            "end_time": 1475173800000,
+            "title": "Reliable institute of management, Ghaziabad"
+          },
+          {
+            "start_time": 1356978600000,
+            "currently_related": 0,
+            "end_time": 1416853800000,
+            "title": "RGPV University, Bhopal"
+          }
+        ],
+        "2": [
+          {
+            "title": "MVM college , Bhopal",
+            "start_time": 1104517800000,
+            "currently_related": 0,
+            "id": "a8747515_b55b_4e31_b0ad_5ffb1d91ea0e",
+            "end_time": 1199125800000
+          }
+        ],
+        "4": [{ "title": "Batch incharge of  BBA student in college." }]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 877 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 0,
+      "total_watch_time": 3752340,
+      "level_info": { "follower_count": 877, "level_id": 5 },
+      "topic": "Function of Management",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_image/89B0E71B-67D4-4D85-950C-0C3F930C6998_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Anurag",
+      "last_name": "Sharma",
+      "username": "AnuragSharma",
+      "uid": "BJPMHLMLJY",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/c3c063de1bf4498bbf88f886934e1289.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@AnuragSharma",
+      "relative_link": "/@AnuragSharma",
+      "topics_display": "Teaches Commerce and 43 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/c3c063de1bf4498bbf88f886934e1289.jpg?q=100&w=512",
+      "avg_rating": "4.6024",
+      "bio": "Qualified UGC-NET in Management, and HPSET and NTA UGC-NET in Commerce as well. Pursuing Ph. D from HPUBS. 9+ years of teaching experience.",
+      "is_verified_educator": false,
+      "followers_count": "49462",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "start_time": 1342031400000,
+            "currently_related": 1,
+            "title": "GGDSD College Rajpur, Palampur"
+          }
+        ],
+        "2": [
+          {
+            "start_time": 1555525800000,
+            "currently_related": 1,
+            "title": "Ph.D Research Scholar"
+          },
+          {
+            "start_time": 1577817000000,
+            "currently_related": 1,
+            "id": "5a74f5b1_f163_4c43_87ec_65c2a5a59e74",
+            "title": "Indira Gandhi National Open University"
+          }
+        ],
+        "4": [{ "title": "Associated with Unacademy from last 8 years" }]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 49205 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 0,
+      "total_watch_time": 9645600,
+      "level_info": { "follower_count": 49205, "level_id": 5 },
+      "topic": "Commerce",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_thumbnail/0EDF8E51-9A38-4597-A421-7162903CD5A5_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Abhishek",
+      "last_name": "Shukla",
+      "username": "Abhishek-1105",
+      "uid": "4NTL22GDTW",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/bca16296be4f4635ac66495a331bf756.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@Abhishek-1105",
+      "relative_link": "/@Abhishek-1105",
+      "topics_display": "Teaches Commerce and 38 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/bca16296be4f4635ac66495a331bf756.jpg?q=100&w=512",
+      "avg_rating": null,
+      "bio": "",
+      "is_verified_educator": false,
+      "followers_count": "882",
+      "is_following": false,
+      "credentials": {},
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 746 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 0,
+      "total_watch_time": 5219932,
+      "level_info": { "follower_count": 746, "level_id": 5 },
+      "topic": "Commerce",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_thumbnail/C24D1184-2A4A-49CA-B3BB-2B6BA50BE661_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Pooja",
+      "last_name": "Kumari Meena",
+      "username": "Pulki",
+      "uid": "ZKZX6K0I2A",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/9bfc650ea1eb47dc92386a2902b1833a.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@Pulki",
+      "relative_link": "/@Pulki",
+      "topics_display": "Teaches Practice & Strategy and 61 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/9bfc650ea1eb47dc92386a2902b1833a.jpg?q=100&w=512",
+      "avg_rating": null,
+      "bio": "Referral Code- PULKI10\nTEACHER || WRITER\nMA Hindi Sahitya, MA Psychology, NET/JRF, B.Ed, CTET, REET, DSSSB\nI Have 2 Year Teaching Experience",
+      "is_verified_educator": false,
+      "followers_count": "5986",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "start_time": 1554661800000,
+            "currently_related": 1,
+            "title": "Education Department"
+          }
+        ],
+        "2": [
+          {
+            "start_time": 1530556200000,
+            "currently_related": 1,
+            "title": "PHD Hindi Sahitya"
+          }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 4853 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 0,
+      "total_watch_time": 82459863,
+      "level_info": { "follower_count": 4853, "level_id": 5 },
+      "topic": "Practice & Strategy",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_thumbnail/92936F63-D4E7-4322-8676-8827AAD8CFC4_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Sarita",
+      "last_name": "Agrahari",
+      "username": "unacademy-user-82H09LMAC54Z",
+      "uid": "9RZPKG1SHT",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/ac1245674e8d465aac1aa0ff8abd4772.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@unacademy-user-82H09LMAC54Z",
+      "relative_link": "/@unacademy-user-82H09LMAC54Z",
+      "topics_display": "Teaches Home Science and 12 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/ac1245674e8d465aac1aa0ff8abd4772.jpg?q=100&w=512",
+      "avg_rating": null,
+      "bio": "",
+      "is_verified_educator": false,
+      "followers_count": "720",
+      "is_following": false,
+      "credentials": {
+        "2": [
+          {
+            "title": "UGC NET QUALIFIED",
+            "start_time": 1546281000000,
+            "currently_related": 0,
+            "id": "2640d731_1851_419a_b22b_65ef4d53774b",
+            "end_time": 1577817000000
+          }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 545 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 0,
+      "total_watch_time": 79082246,
+      "level_info": { "follower_count": 545, "level_id": 5 },
+      "topic": "Home Science",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_image/125F1FC4-1F9A-4755-B0E4-557303E5B31A_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Dr Aditi",
+      "last_name": "Baghla",
+      "username": "dr.aditibaghla-292",
+      "uid": "ZG2LQZANK9",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/e9d40cee8ffb472a96007c0f0d19c981.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@dr.aditibaghla-292",
+      "relative_link": "/@dr.aditibaghla-292",
+      "topics_display": "Teaches PhD Guidance and 6 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/e9d40cee8ffb472a96007c0f0d19c981.jpg?q=100&w=512",
+      "avg_rating": null,
+      "bio": "\"13+ Years of Teaching experience. Qualified PhD in Management . Cleared NTA UGC  in Commerce and Mgmt. 19 Research Papers & 1 BookPublished",
+      "is_verified_educator": false,
+      "followers_count": "174",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "start_time": 1311407449501,
+            "currently_related": 1,
+            "title": "D.A.V COLLEGE , G.C.A.M COLLEGE ABOHAR, 9 Yrs of teaching experience in college , 14 yrs in Academy."
+          }
+        ],
+        "2": [
+          {
+            "start_time": 1342079934720,
+            "currently_related": 0,
+            "end_time": 1491206382400,
+            "title": "Ph.D  from GKU , M.com from PU (1ST) , M.B.A from L.P.U, UGC NET IN COMMERCE , UGC NET IN MANAGEMENT"
+          }
+        ],
+        "4": [
+          {
+            "title": "1st position  in M.com \nUgc net in commerce and management both\n21 research papers\n1 book published"
+          }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 174 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 0,
+      "total_watch_time": 328629,
+      "level_info": { "follower_count": 174, "level_id": 5 },
+      "topic": "PhD Guidance",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_image/72C6FAD1-FBAE-4C48-A0CA-4D5B00370CD7_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Vishivani",
+      "last_name": "Bansal",
+      "username": "vishivanibansal91-7514",
+      "uid": "YEXO9U77A8",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/cd3dd771ea124cfdb180b9c8bbf85b7f.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@vishivanibansal91-7514",
+      "relative_link": "/@vishivanibansal91-7514",
+      "topics_display": "Teaches Civil Law and 68 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/cd3dd771ea124cfdb180b9c8bbf85b7f.jpg?q=100&w=512",
+      "avg_rating": "4.901",
+      "bio": "",
+      "is_verified_educator": false,
+      "followers_count": "4225",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "start_time": 1442082600000,
+            "currently_related": 1,
+            "title": "Panjab and haryana high court chandigarh"
+          }
+        ],
+        "2": [
+          {
+            "start_time": 1310581800000,
+            "currently_related": 0,
+            "end_time": 1400092200000,
+            "title": "Department of laws,panjab university chandigarh"
+          }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "display_string": "Watch Mins", "type": 1, "value": 0 },
+          { "display_string": "Followers", "type": 1, "value": 0 }
+        ],
+        "rank": 1
+      },
+      "live_minutes": 0,
+      "total_watch_time": 90366685,
+      "level_info": { "follower_count": 4199, "level_id": 5 },
+      "topic": "Civil Law",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_thumbnail/C5910387-F450-4124-A6A8-411A551D4A39_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Kamalvir",
+      "last_name": "Singh",
+      "username": "guide.guide786-4296",
+      "uid": "ZNXDAKFNRS",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/fff1842b89cb404fb2de2f84532bb51c.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@guide.guide786-4296",
+      "relative_link": "/@guide.guide786-4296",
+      "topics_display": "Teaches General Paper on Teaching and 38 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/fff1842b89cb404fb2de2f84532bb51c.jpg?q=100&w=512",
+      "avg_rating": "4.6598",
+      "bio": "",
+      "is_verified_educator": false,
+      "followers_count": "10469",
+      "is_following": false,
+      "credentials": {
+        "2": [
+          {
+            "start_time": 1606761000000,
+            "currently_related": 1,
+            "title": "PhD at Panjab University Chandigarh"
+          }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 10257 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 220320,
+      "total_watch_time": 154325214,
+      "level_info": { "follower_count": 10257, "level_id": 5 },
+      "topic": "General Paper on Teaching",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_thumbnail/94E01656-3354-4C2B-AFFA-AC71274F140D_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Tribhuwan",
+      "last_name": "Kr. Bhartiya",
+      "username": "tribhuwan.kr@gmail.com",
+      "uid": "O3H80PIJ9L",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/eec238eca0c94d839b3322c6ab0b94f1.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@tribhuwan.kr@gmail.com",
+      "relative_link": "/@tribhuwan.kr@gmail.com",
+      "topics_display": "Teaches General Paper on Teaching and 21 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/eec238eca0c94d839b3322c6ab0b94f1.jpg?q=100&w=512",
+      "avg_rating": "4.8249",
+      "bio": "Author of 3 Books and 12 Research Papers. Cleared NET 3 Times and SET 1 time. Founder and Educator of eGyan NEET and eGyan YouTube Channel.",
+      "is_verified_educator": false,
+      "followers_count": "3721",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "start_time": 1356978600000,
+            "currently_related": 1,
+            "id": "10e88ea8_c9a1_4bd8_981a_9e013a5f96f2",
+            "title": "VVHSS, Digboi Assam"
+          },
+          {
+            "start_time": 1514745000000,
+            "currently_related": 1,
+            "id": "c92b4bc7_d726_4454_af10_7018ad8014ac",
+            "title": "eGyan YouTube Channel"
+          },
+          {
+            "start_time": 1609439400000,
+            "currently_related": 1,
+            "id": "45920150_f197_42ef_88d8_303afffefee6",
+            "title": "eGyan NEET YouTube Channel"
+          },
+          {
+            "start_time": 1514745000000,
+            "currently_related": 1,
+            "id": "0b296a14_b4c7_4a50_a365_047350544a3f",
+            "title": "Unacademy"
+          }
+        ],
+        "2": [
+          {
+            "title": "TMBU Bhagalpur",
+            "start_time": 1167589800000,
+            "currently_related": 0,
+            "end_time": 1262284200000,
+            "id": "6184ec11_e778_44f3_871a_4e632c31e348"
+          },
+          {
+            "title": "Shobhit University",
+            "start_time": 1325356200000,
+            "currently_related": 0,
+            "id": "c5723d7d_b7f0_41ac_a6d7_e6bf144b61de",
+            "end_time": 1388514600000
+          },
+          {
+            "title": "Hindu College of Education",
+            "start_time": 1262284200000,
+            "currently_related": 0,
+            "end_time": 1293820200000,
+            "id": "5b981694_e01e_4022_b165_38f6857f721a"
+          },
+          {
+            "title": "MDU Rohtak",
+            "start_time": 1293820200000,
+            "currently_related": 0,
+            "id": "30b363fc_b111_4377_84ba_b132c635e519",
+            "end_time": 1325356200000
+          },
+          {
+            "title": "Dibrugarh University",
+            "start_time": 1388514600000,
+            "currently_related": 0,
+            "end_time": 1514745000000,
+            "id": "f514d391_7b0c_46fb_842e_638a5c522059"
+          },
+          {
+            "start_time": 1577817000000,
+            "currently_related": 1,
+            "id": "00548012_2831_4c84_8059_df73df48b2f1",
+            "title": "Lovely Professional University"
+          }
+        ],
+        "4": [
+          {
+            "id": "f085d127_1d6d_4492_84c0_78fc258120e0",
+            "title": "3 NET, 1 SET NE,\n3 Books of Environmental Education for Govt. of Assam,\n12 Research Papers published in International Journals,\nEstablished TRIBHUWAN EDUCATION OPC PVT. LTD."
+          }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 3590 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 0,
+      "total_watch_time": 17835450,
+      "level_info": { "follower_count": 3590, "level_id": 5 },
+      "topic": "General Paper on Teaching",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_thumbnail/CE0F367D-1B01-461B-8F26-A08CF3472F9C_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Annie",
+      "last_name": "Mahindru",
+      "username": "anniemahindru-4025",
+      "uid": "WOCKAGXRNF",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/903ed98cfb95460abf3ac2418b32a34d.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@anniemahindru-4025",
+      "relative_link": "/@anniemahindru-4025",
+      "topics_display": "Teaches English and 24 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/903ed98cfb95460abf3ac2418b32a34d.jpg?q=100&w=512",
+      "avg_rating": "4.7959",
+      "bio": "",
+      "is_verified_educator": false,
+      "followers_count": "7646",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "start_time": 1536949800000,
+            "currently_related": 1,
+            "title": "Jamia Millia Islamia , Delhi"
+          },
+          {
+            "id": "9ba74c08_2506_4edd_a8bb_a24823bdf1e4",
+            "start_time": 1514745000000,
+            "currently_related": 0,
+            "end_time": 1577817000000,
+            "title": "Jamia Millia Islamia, Delhi"
+          },
+          {
+            "start_time": 1577817000000,
+            "currently_related": 1,
+            "id": "663a8cfb_76c6_4ff4_bb27_b4abfa2ed83c",
+            "title": "Unacademy "
+          }
+        ],
+        "2": [
+          {
+            "start_time": 1406831400000,
+            "currently_related": 0,
+            "end_time": 1464633000000,
+            "title": "The English and Foreign Languages University"
+          }
+        ],
+        "4": [
+          {
+            "id": "a03556c0_1a07_4a2e_9cfa_1bba213b898c",
+            "title": "Published research paper in Lapis Lazuli, an international Literary Journal-  'Analyzing Restructured form of Qawwalis in Hindi Cinema' \n"
+          }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Watch Mins", "value": 204192 },
+          { "type": 1, "display_string": "Followers", "value": 7613 }
+        ],
+        "rank": 8
+      },
+      "live_minutes": 0,
+      "total_watch_time": 786920531,
+      "level_info": { "follower_count": 7613, "level_id": 5 },
+      "topic": "English",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_thumbnail/69FF50C9-7621-4EF3-84AB-A9F34F5E1640_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Rajendra",
+      "last_name": "Sharma",
+      "username": "rajendra.sharma",
+      "uid": "EZRPXC1FVA",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/0e03dff246ca4039b369645797cc092c.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@rajendra.sharma",
+      "relative_link": "/@rajendra.sharma",
+      "topics_display": "Teaches Geographic Thought and 129 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/0e03dff246ca4039b369645797cc092c.jpg?q=100&w=512",
+      "avg_rating": null,
+      "bio": "",
+      "is_verified_educator": false,
+      "followers_count": "20346",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "start_time": 1546281000000,
+            "currently_related": 1,
+            "id": "bcd565ec_5fc9_4af9_8b52_9abf1e0a4f62",
+            "title": "UNACADEMY"
+          }
+        ],
+        "2": [
+          {
+            "title": "RAJASTHAN UNIVERCITY JAIPUR",
+            "start_time": 1293820200000,
+            "currently_related": 0,
+            "id": "7de51542_86f6_4eeb_97d5_56680517e926",
+            "end_time": 1388514600000
+          }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 20202 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 0,
+      "total_watch_time": 360483130,
+      "level_info": { "follower_count": 20202, "level_id": 5 },
+      "topic": "Geographic Thought",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_thumbnail/5F2B401B-D234-4EE0-9113-98777CBDCD54_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Kanica",
+      "last_name": "Singh",
+      "username": "kanica2020",
+      "uid": "KJ2Y9TIIJY",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/b6b92ac6dce3454db3c5ad94d2d2f878.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@kanica2020",
+      "relative_link": "/@kanica2020",
+      "topics_display": "Teaches Practice & Strategy and 61 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/b6b92ac6dce3454db3c5ad94d2d2f878.jpg?q=100&w=512",
+      "avg_rating": null,
+      "bio": "",
+      "is_verified_educator": false,
+      "followers_count": "333",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "start_time": 1588789800000,
+            "currently_related": 1,
+            "title": "Content writer for RBI Grade B and UPSC exams in Testbook.com"
+          },
+          {
+            "start_time": 1519842600000,
+            "currently_related": 0,
+            "end_time": 1583001000000,
+            "title": "Coaching institute"
+          },
+          {
+            "start_time": 1476037800000,
+            "currently_related": 0,
+            "end_time": 1507660200000,
+            "title": "Service Engineer at Pace Support Services"
+          }
+        ],
+        "2": [
+          {
+            "start_time": 1341945000000,
+            "currently_related": 0,
+            "end_time": 1463337000000,
+            "title": "Banasthali University"
+          },
+          {
+            "start_time": 1533753000000,
+            "currently_related": 1,
+            "title": "University of Rajasthan"
+          }
+        ],
+        "4": []
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 334 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 0,
+      "total_watch_time": 6061818,
+      "level_info": { "follower_count": 334, "level_id": 5 },
+      "topic": "Practice & Strategy",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_image/1F1ADBDB-C82C-4EDC-A4F1-AAC22B6B6422_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Shubham",
+      "last_name": "Tiwari",
+      "username": "unacademy-user-0H2XXV1ITRBS",
+      "uid": "OQSRS5XCNE",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/b670737df42d4d82990af7eeb694ca6c.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@unacademy-user-0H2XXV1ITRBS",
+      "relative_link": "/@unacademy-user-0H2XXV1ITRBS",
+      "topics_display": "Teaches Sanskrit and 21 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/b670737df42d4d82990af7eeb694ca6c.jpg?q=100&w=512",
+      "avg_rating": null,
+      "bio": "",
+      "is_verified_educator": false,
+      "followers_count": "293",
+      "is_following": false,
+      "credentials": {},
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 278 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 0,
+      "total_watch_time": 14471949,
+      "level_info": { "follower_count": 278, "level_id": 5 },
+      "topic": "Sanskrit",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_image/49388B1A-49A3-4D91-A9C0-E330098B5577_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Kanchan",
+      "last_name": "Gupta",
+      "username": "crackedunet-3486",
+      "uid": "CIU9Y33TOB",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/ec9afca549694f03b8ef8c5162df5f4e.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@crackedunet-3486",
+      "relative_link": "/@crackedunet-3486",
+      "topics_display": "Teaches Recent Western Philosophy and 22 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/ec9afca549694f03b8ef8c5162df5f4e.jpg?q=100&w=512",
+      "avg_rating": "4.1474",
+      "bio": "",
+      "is_verified_educator": false,
+      "followers_count": "2261",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "start_time": 1541010600000,
+            "currently_related": 1,
+            "title": "Unacademy"
+          }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 2260 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 123360,
+      "total_watch_time": 17427314,
+      "level_info": { "follower_count": 2260, "level_id": 5 },
+      "topic": "Recent Western Philosophy",
+      "avatar_v1": null,
+      "old_avatar": null,
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Meenakshi",
+      "last_name": "Singh",
+      "username": "meenakshisinghtutor-1996",
+      "uid": "PRRJLGZR9X",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/2790cf233a9b41b58de29ac834f3ec45.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@meenakshisinghtutor-1996",
+      "relative_link": "/@meenakshisinghtutor-1996",
+      "topics_display": "Teaches Sociology and 23 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/2790cf233a9b41b58de29ac834f3ec45.jpg?q=100&w=512",
+      "avg_rating": "4.6466",
+      "bio": "",
+      "is_verified_educator": false,
+      "followers_count": "4726",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "start_time": 1551378600000,
+            "currently_related": 1,
+            "title": "I'm youtuber, my channel name is jaidev classes for JRF in political science."
+          }
+        ],
+        "2": [
+          {
+            "start_time": 1468175400000,
+            "currently_related": 0,
+            "end_time": 1560105000000,
+            "title": "I've done my graduation in political science from Delhi University and masters from jamia University"
+          }
+        ],
+        "4": [
+          {
+            "title": "I'm teaching live on unacademy platform from November 2019."
+          }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 4683 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 513660,
+      "total_watch_time": 217402626,
+      "level_info": { "follower_count": 4683, "level_id": 5 },
+      "topic": "Sociology",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_thumbnail/DFE04889-FA99-40A6-922B-8509F9697C4A_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Sukanta Kumar",
+      "last_name": "Saha",
+      "username": "unacademy-user-P48ZC011G0AW",
+      "uid": "SIXI2Y2QXM",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/b3eae7c9556b41e98e4a6604ca95928c.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@unacademy-user-P48ZC011G0AW",
+      "relative_link": "/@unacademy-user-P48ZC011G0AW",
+      "topics_display": "Teaches PhD Guidance",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/b3eae7c9556b41e98e4a6604ca95928c.jpg?q=100&w=512",
+      "avg_rating": null,
+      "bio": "Right now I am doing PhD in Geography, I have done My MA in geography and MSc. in Geo-informatics. I have Published more than 5 paper and Re",
+      "is_verified_educator": false,
+      "followers_count": "96",
+      "is_following": false,
+      "credentials": {},
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 6 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 0,
+      "total_watch_time": 130255,
+      "level_info": { "follower_count": 6, "level_id": 5 },
+      "topic": "PhD Guidance",
+      "avatar_v1": null,
+      "old_avatar": null,
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    },
+    {
+      "first_name": "Kajol",
+      "last_name": "Rupchandani",
+      "username": "Kajol.rup",
+      "uid": "CHJJBXTKIY",
+      "avatar": "https://edge.uacdn.net/static/thumbnail/user/4c16e69300f241169204dbcbd2773e34.jpg?q=100&w=512",
+      "permalink": "https://unacademy.com/@Kajol.rup",
+      "relative_link": "/@Kajol.rup",
+      "topics_display": "Teaches General Paper on Teaching and 25 more",
+      "intro_photo": "https://edge.uacdn.net/static/thumbnail/user/4c16e69300f241169204dbcbd2773e34.jpg?q=100&w=512",
+      "avg_rating": null,
+      "bio": "Cleared JRF in Commerce in 1st Attempt!!\nPassionate Learner \nUnlock Code KRNET",
+      "is_verified_educator": false,
+      "followers_count": "885",
+      "is_following": false,
+      "credentials": {
+        "1": [
+          {
+            "title": "Green Soul Ergonomics",
+            "start_time": 1609439400000,
+            "currently_related": 0,
+            "end_time": 1609439400000,
+            "id": "4162a0b2_624a_407f_888b_8f024168addc"
+          },
+          {
+            "title": "SHM degree College of Commerce",
+            "start_time": 1640975400000,
+            "currently_related": 0,
+            "id": "718d74e1_39f0_47d7_9389_7786f8445d74",
+            "end_time": 1640975400000
+          }
+        ],
+        "2": [
+          {
+            "title": "HR College of Commerce and Economics",
+            "start_time": 1420050600000,
+            "currently_related": 0,
+            "id": "6ab64e61_e5f2_4759_bd01_454242c08d28",
+            "end_time": 1514745000000
+          },
+          {
+            "title": "Mumbai University",
+            "start_time": 1514745000000,
+            "currently_related": 0,
+            "end_time": 1577817000000,
+            "id": "69636d5e_3eaf_4ae8_be20_b0ba110baebc"
+          },
+          {
+            "title": "Welingars Institute",
+            "start_time": 1514745000000,
+            "currently_related": 0,
+            "id": "53935381_a60c_4a2e_b7a2_5997cccfe9ce",
+            "end_time": 1514745000000
+          }
+        ],
+        "4": [
+          {
+            "id": "f89ad829_8c88_4b7c_8b48_81bb672820c8",
+            "title": "Best Teacher Award from  Undergraduate students"
+          }
+        ]
+      },
+      "leaderboard_rank": -1,
+      "leaderboard_meta_info": {
+        "value_props": [
+          { "type": 1, "display_string": "Followers", "value": 875 }
+        ],
+        "rank": -1
+      },
+      "live_minutes": 0,
+      "total_watch_time": 54082256,
+      "level_info": { "follower_count": 875, "level_id": 5 },
+      "topic": "General Paper on Teaching",
+      "avatar_v1": null,
+      "old_avatar": "https://static.uacdn.net/educator_new/processed_image/0CA5ACA2-AE96-4AA2-B7EA-EE93F083C5DD_.png",
+      "avatar_v1_web": null,
+      "avatar_v2": null
+    }
+  ]
+}
